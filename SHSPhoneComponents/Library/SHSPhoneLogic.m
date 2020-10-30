@@ -6,9 +6,9 @@
 //  Copyright (c) 2013 SHS. All rights reserved.
 //
 
-#import "SHSPhoneLogic.h"
-#import "SHSPhoneTextField.h"
-#import "SHSFlagAccessoryView.h"
+#import "include/SHSPhoneLogic.h"
+#import "include/SHSPhoneTextField.h"
+#import "include/SHSFlagAccessoryView.h"
 
 @implementation SHSPhoneLogic
 @synthesize delegate = _delegate;

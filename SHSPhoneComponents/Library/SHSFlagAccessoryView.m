@@ -6,7 +6,7 @@
 //  Copyright (c) 2013 SHS. All rights reserved.
 //
 
-#import "SHSFlagAccessoryView.h"
+#import "include/SHSFlagAccessoryView.h"
 #import <UIKit/UIKit.h>
 
 #define ICON_SIZE 18.0

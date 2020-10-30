@@ -6,7 +6,7 @@
 //  Copyright (c) 2013 SHS. All rights reserved.
 //
 
-#import "SHSPhoneNumberFormatter+UserConfig.h"
+#import "include/SHSPhoneNumberFormatter+UserConfig.h"
 
 @implementation SHSPhoneNumberFormatter (UserConfig)
 
