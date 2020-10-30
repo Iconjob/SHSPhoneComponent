@@ -21,7 +21,7 @@ let package = Package(
             dependencies: [
             ],
             path: "SHSPhoneComponents/Library",
-            publicHeadersPath: "SHSPhoneComponents/SHSPhoneComponent/SHSPhoneComponent.h"
+            publicHeadersPath: "SHSPhoneComponents/Library/include"
         )
     ]
 )
